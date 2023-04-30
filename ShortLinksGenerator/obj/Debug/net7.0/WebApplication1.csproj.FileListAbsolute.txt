@@ -1,0 +1,93 @@
+C:\Users\Dem\Desktop\Программирование\C# проект\ShortLinksGenerator\ShortLinksGenerator\bin\Debug\net7.0\appsettings.Development.json
+C:\Users\Dem\Desktop\Программирование\C# проект\ShortLinksGenerator\ShortLinksGenerator\bin\Debug\net7.0\appsettings.json
+C:\Users\Dem\Desktop\Программирование\C# проект\ShortLinksGenerator\ShortLinksGenerator\bin\Debug\net7.0\ShortLinksGenerator.exe
+C:\Users\Dem\Desktop\Программирование\C# проект\ShortLinksGenerator\ShortLinksGenerator\bin\Debug\net7.0\ShortLinksGenerator.deps.json
+C:\Users\Dem\Desktop\Программирование\C# проект\ShortLinksGenerator\ShortLinksGenerator\bin\Debug\net7.0\ShortLinksGenerator.runtimeconfig.json
+C:\Users\Dem\Desktop\Программирование\C# проект\ShortLinksGenerator\ShortLinksGenerator\bin\Debug\net7.0\ShortLinksGenerator.dll
+C:\Users\Dem\Desktop\Программирование\C# проект\ShortLinksGenerator\ShortLinksGenerator\bin\Debug\net7.0\ShortLinksGenerator.pdb
+C:\Users\Dem\Desktop\Программирование\C# проект\ShortLinksGenerator\ShortLinksGenerator\bin\Debug\net7.0\Microsoft.AspNetCore.OpenApi.dll
+C:\Users\Dem\Desktop\Программирование\C# проект\ShortLinksGenerator\ShortLinksGenerator\bin\Debug\net7.0\Microsoft.OpenApi.dll
+C:\Users\Dem\Desktop\Программирование\C# проект\ShortLinksGenerator\ShortLinksGenerator\bin\Debug\net7.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\Dem\Desktop\Программирование\C# проект\ShortLinksGenerator\ShortLinksGenerator\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\Dem\Desktop\Программирование\C# проект\ShortLinksGenerator\ShortLinksGenerator\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\Dem\Desktop\Программирование\C# проект\ShortLinksGenerator\ShortLinksGenerator\obj\Debug\net7.0\ShortLinksGenerator.csproj.AssemblyReference.cache
+C:\Users\Dem\Desktop\Программирование\C# проект\ShortLinksGenerator\ShortLinksGenerator\obj\Debug\net7.0\ShortLinksGenerator.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Dem\Desktop\Программирование\C# проект\ShortLinksGenerator\ShortLinksGenerator\obj\Debug\net7.0\ShortLinksGenerator.AssemblyInfoInputs.cache
+C:\Users\Dem\Desktop\Программирование\C# проект\ShortLinksGenerator\ShortLinksGenerator\obj\Debug\net7.0\ShortLinksGenerator.AssemblyInfo.cs
+C:\Users\Dem\Desktop\Программирование\C# проект\ShortLinksGenerator\ShortLinksGenerator\obj\Debug\net7.0\ShortLinksGenerator.csproj.CoreCompileInputs.cache
+C:\Users\Dem\Desktop\Программирование\C# проект\ShortLinksGenerator\ShortLinksGenerator\obj\Debug\net7.0\ShortLinksGenerator.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\Dem\Desktop\Программирование\C# проект\ShortLinksGenerator\ShortLinksGenerator\obj\Debug\net7.0\ShortLinksGenerator.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Dem\Desktop\Программирование\C# проект\ShortLinksGenerator\ShortLinksGenerator\obj\Debug\net7.0\staticwebassets\msbuild.ShortLinksGenerator.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\Dem\Desktop\Программирование\C# проект\ShortLinksGenerator\ShortLinksGenerator\obj\Debug\net7.0\staticwebassets\msbuild.build.ShortLinksGenerator.props
+C:\Users\Dem\Desktop\Программирование\C# проект\ShortLinksGenerator\ShortLinksGenerator\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.ShortLinksGenerator.props
+C:\Users\Dem\Desktop\Программирование\C# проект\ShortLinksGenerator\ShortLinksGenerator\obj\Debug\net7.0\staticwebassets\msbuild.buildTransitive.ShortLinksGenerator.props
+C:\Users\Dem\Desktop\Программирование\C# проект\ShortLinksGenerator\ShortLinksGenerator\obj\Debug\net7.0\staticwebassets.pack.json
+C:\Users\Dem\Desktop\Программирование\C# проект\ShortLinksGenerator\ShortLinksGenerator\obj\Debug\net7.0\staticwebassets.build.json
+C:\Users\Dem\Desktop\Программирование\C# проект\ShortLinksGenerator\ShortLinksGenerator\obj\Debug\net7.0\staticwebassets.development.json
+C:\Users\Dem\Desktop\Программирование\C# проект\ShortLinksGenerator\ShortLinksGenerator\obj\Debug\net7.0\scopedcss\bundle\ShortLinksGenerator.styles.css
+C:\Users\Dem\Desktop\Программирование\C# проект\ShortLinksGenerator\ShortLinksGenerator\obj\Debug\net7.0\ShortLinksGenerator.csproj.CopyComplete
+C:\Users\Dem\Desktop\Программирование\C# проект\ShortLinksGenerator\ShortLinksGenerator\obj\Debug\net7.0\ShortLinksGenerator.dll
+C:\Users\Dem\Desktop\Программирование\C# проект\ShortLinksGenerator\ShortLinksGenerator\obj\Debug\net7.0\refint\ShortLinksGenerator.dll
+C:\Users\Dem\Desktop\Программирование\C# проект\ShortLinksGenerator\ShortLinksGenerator\obj\Debug\net7.0\ShortLinksGenerator.pdb
+C:\Users\Dem\Desktop\Программирование\C# проект\ShortLinksGenerator\ShortLinksGenerator\obj\Debug\net7.0\ShortLinksGenerator.genruntimeconfig.cache
+C:\Users\Dem\Desktop\Программирование\C# проект\ShortLinksGenerator\ShortLinksGenerator\obj\Debug\net7.0\ref\ShortLinksGenerator.dll
+C:\Users\Demorey\Desktop\Projects\ShortLinksGenerator\ShortLinksGenerator\bin\Debug\net7.0\appsettings.Development.json
+C:\Users\Demorey\Desktop\Projects\ShortLinksGenerator\ShortLinksGenerator\bin\Debug\net7.0\appsettings.json
+C:\Users\Demorey\Desktop\Projects\ShortLinksGenerator\ShortLinksGenerator\bin\Debug\net7.0\usersShortLinks.json
+C:\Users\Demorey\Desktop\Projects\ShortLinksGenerator\ShortLinksGenerator\bin\Debug\net7.0\ShortLinksGenerator.exe
+C:\Users\Demorey\Desktop\Projects\ShortLinksGenerator\ShortLinksGenerator\bin\Debug\net7.0\ShortLinksGenerator.deps.json
+C:\Users\Demorey\Desktop\Projects\ShortLinksGenerator\ShortLinksGenerator\bin\Debug\net7.0\ShortLinksGenerator.runtimeconfig.json
+C:\Users\Demorey\Desktop\Projects\ShortLinksGenerator\ShortLinksGenerator\bin\Debug\net7.0\ShortLinksGenerator.dll
+C:\Users\Demorey\Desktop\Projects\ShortLinksGenerator\ShortLinksGenerator\bin\Debug\net7.0\ShortLinksGenerator.pdb
+C:\Users\Demorey\Desktop\Projects\ShortLinksGenerator\ShortLinksGenerator\bin\Debug\net7.0\Microsoft.AspNetCore.OpenApi.dll
+C:\Users\Demorey\Desktop\Projects\ShortLinksGenerator\ShortLinksGenerator\bin\Debug\net7.0\Microsoft.OpenApi.dll
+C:\Users\Demorey\Desktop\Projects\ShortLinksGenerator\ShortLinksGenerator\bin\Debug\net7.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\Demorey\Desktop\Projects\ShortLinksGenerator\ShortLinksGenerator\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\Demorey\Desktop\Projects\ShortLinksGenerator\ShortLinksGenerator\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\Demorey\Desktop\Projects\ShortLinksGenerator\ShortLinksGenerator\obj\Debug\net7.0\ShortLinksGenerator.csproj.AssemblyReference.cache
+C:\Users\Demorey\Desktop\Projects\ShortLinksGenerator\ShortLinksGenerator\obj\Debug\net7.0\ShortLinksGenerator.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Demorey\Desktop\Projects\ShortLinksGenerator\ShortLinksGenerator\obj\Debug\net7.0\ShortLinksGenerator.AssemblyInfoInputs.cache
+C:\Users\Demorey\Desktop\Projects\ShortLinksGenerator\ShortLinksGenerator\obj\Debug\net7.0\ShortLinksGenerator.AssemblyInfo.cs
+C:\Users\Demorey\Desktop\Projects\ShortLinksGenerator\ShortLinksGenerator\obj\Debug\net7.0\ShortLinksGenerator.csproj.CoreCompileInputs.cache
+C:\Users\Demorey\Desktop\Projects\ShortLinksGenerator\ShortLinksGenerator\obj\Debug\net7.0\ShortLinksGenerator.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\Demorey\Desktop\Projects\ShortLinksGenerator\ShortLinksGenerator\obj\Debug\net7.0\ShortLinksGenerator.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Demorey\Desktop\Projects\ShortLinksGenerator\ShortLinksGenerator\obj\Debug\net7.0\staticwebassets\msbuild.ShortLinksGenerator.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\Demorey\Desktop\Projects\ShortLinksGenerator\ShortLinksGenerator\obj\Debug\net7.0\staticwebassets\msbuild.build.ShortLinksGenerator.props
+C:\Users\Demorey\Desktop\Projects\ShortLinksGenerator\ShortLinksGenerator\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.ShortLinksGenerator.props
+C:\Users\Demorey\Desktop\Projects\ShortLinksGenerator\ShortLinksGenerator\obj\Debug\net7.0\staticwebassets\msbuild.buildTransitive.ShortLinksGenerator.props
+C:\Users\Demorey\Desktop\Projects\ShortLinksGenerator\ShortLinksGenerator\obj\Debug\net7.0\staticwebassets.pack.json
+C:\Users\Demorey\Desktop\Projects\ShortLinksGenerator\ShortLinksGenerator\obj\Debug\net7.0\staticwebassets.build.json
+C:\Users\Demorey\Desktop\Projects\ShortLinksGenerator\ShortLinksGenerator\obj\Debug\net7.0\staticwebassets.development.json
+C:\Users\Demorey\Desktop\Projects\ShortLinksGenerator\ShortLinksGenerator\obj\Debug\net7.0\scopedcss\bundle\ShortLinksGenerator.styles.css
+C:\Users\Demorey\Desktop\Projects\ShortLinksGenerator\ShortLinksGenerator\obj\Debug\net7.0\ShortLinksGenerator.csproj.CopyComplete
+C:\Users\Demorey\Desktop\Projects\ShortLinksGenerator\ShortLinksGenerator\obj\Debug\net7.0\ShortLinksGenerator.dll
+C:\Users\Demorey\Desktop\Projects\ShortLinksGenerator\ShortLinksGenerator\obj\Debug\net7.0\refint\ShortLinksGenerator.dll
+C:\Users\Demorey\Desktop\Projects\ShortLinksGenerator\ShortLinksGenerator\obj\Debug\net7.0\ShortLinksGenerator.pdb
+C:\Users\Demorey\Desktop\Projects\ShortLinksGenerator\ShortLinksGenerator\obj\Debug\net7.0\ShortLinksGenerator.genruntimeconfig.cache
+C:\Users\Demorey\Desktop\Projects\ShortLinksGenerator\ShortLinksGenerator\obj\Debug\net7.0\ref\ShortLinksGenerator.dll
+C:\Users\Demorey\Desktop\Projects\ShortLinksGenerator\ShortLinksGenerator\bin\Debug\net7.0\AWSSDK.Core.dll
+C:\Users\Demorey\Desktop\Projects\ShortLinksGenerator\ShortLinksGenerator\bin\Debug\net7.0\AWSSDK.SecurityToken.dll
+C:\Users\Demorey\Desktop\Projects\ShortLinksGenerator\ShortLinksGenerator\bin\Debug\net7.0\DnsClient.dll
+C:\Users\Demorey\Desktop\Projects\ShortLinksGenerator\ShortLinksGenerator\bin\Debug\net7.0\MongoDB.Bson.dll
+C:\Users\Demorey\Desktop\Projects\ShortLinksGenerator\ShortLinksGenerator\bin\Debug\net7.0\MongoDB.Driver.dll
+C:\Users\Demorey\Desktop\Projects\ShortLinksGenerator\ShortLinksGenerator\bin\Debug\net7.0\MongoDB.Driver.Core.dll
+C:\Users\Demorey\Desktop\Projects\ShortLinksGenerator\ShortLinksGenerator\bin\Debug\net7.0\MongoDB.Libmongocrypt.dll
+C:\Users\Demorey\Desktop\Projects\ShortLinksGenerator\ShortLinksGenerator\bin\Debug\net7.0\SharpCompress.dll
+C:\Users\Demorey\Desktop\Projects\ShortLinksGenerator\ShortLinksGenerator\bin\Debug\net7.0\Snappier.dll
+C:\Users\Demorey\Desktop\Projects\ShortLinksGenerator\ShortLinksGenerator\bin\Debug\net7.0\ZstdSharp.dll
+C:\Users\Demorey\Desktop\Projects\ShortLinksGenerator\ShortLinksGenerator\bin\Debug\net7.0\runtimes\linux\native\libmongocrypt.so
+C:\Users\Demorey\Desktop\Projects\ShortLinksGenerator\ShortLinksGenerator\bin\Debug\net7.0\runtimes\osx\native\libmongocrypt.dylib
+C:\Users\Demorey\Desktop\Projects\ShortLinksGenerator\ShortLinksGenerator\bin\Debug\net7.0\runtimes\win\native\mongocrypt.dll
+C:\Users\Dem\Desktop\Программирование\C# проект\ShortLinksGenerator\ShortLinksGenerator\bin\Debug\net7.0\AWSSDK.Core.dll
+C:\Users\Dem\Desktop\Программирование\C# проект\ShortLinksGenerator\ShortLinksGenerator\bin\Debug\net7.0\AWSSDK.SecurityToken.dll
+C:\Users\Dem\Desktop\Программирование\C# проект\ShortLinksGenerator\ShortLinksGenerator\bin\Debug\net7.0\DnsClient.dll
+C:\Users\Dem\Desktop\Программирование\C# проект\ShortLinksGenerator\ShortLinksGenerator\bin\Debug\net7.0\MongoDB.Bson.dll
+C:\Users\Dem\Desktop\Программирование\C# проект\ShortLinksGenerator\ShortLinksGenerator\bin\Debug\net7.0\MongoDB.Driver.dll
+C:\Users\Dem\Desktop\Программирование\C# проект\ShortLinksGenerator\ShortLinksGenerator\bin\Debug\net7.0\MongoDB.Driver.Core.dll
+C:\Users\Dem\Desktop\Программирование\C# проект\ShortLinksGenerator\ShortLinksGenerator\bin\Debug\net7.0\MongoDB.Libmongocrypt.dll
+C:\Users\Dem\Desktop\Программирование\C# проект\ShortLinksGenerator\ShortLinksGenerator\bin\Debug\net7.0\SharpCompress.dll
+C:\Users\Dem\Desktop\Программирование\C# проект\ShortLinksGenerator\ShortLinksGenerator\bin\Debug\net7.0\Snappier.dll
+C:\Users\Dem\Desktop\Программирование\C# проект\ShortLinksGenerator\ShortLinksGenerator\bin\Debug\net7.0\ZstdSharp.dll
+C:\Users\Dem\Desktop\Программирование\C# проект\ShortLinksGenerator\ShortLinksGenerator\bin\Debug\net7.0\runtimes\linux\native\libmongocrypt.so
+C:\Users\Dem\Desktop\Программирование\C# проект\ShortLinksGenerator\ShortLinksGenerator\bin\Debug\net7.0\runtimes\osx\native\libmongocrypt.dylib
+C:\Users\Dem\Desktop\Программирование\C# проект\ShortLinksGenerator\ShortLinksGenerator\bin\Debug\net7.0\runtimes\win\native\mongocrypt.dll

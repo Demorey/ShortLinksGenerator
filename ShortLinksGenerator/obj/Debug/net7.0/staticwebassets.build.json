@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "ozPU8KMwOlbQHpcE5qZTZ7CirEa+BWCC4ogaz+QJEsE=",
+  "Source": "ShortLinksGenerator",
+  "BasePath": "_content/ShortLinksGenerator",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
